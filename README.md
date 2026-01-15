@@ -1,4 +1,4 @@
-# Melbourne Real Estate Price Prediction
+# Price Prediction
 
 This repository contains a machine learning project aimed at predicting real estate prices in Melbourne using historical sales data. The project involves various stages including data exploration, cleaning, feature engineering, and model building with multiple machine learning algorithms.
 
